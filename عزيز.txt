@@ -1,0 +1,9 @@
+int x=17;
+        String y="aziz";
+        
+        if(x>18){
+            System.out.println("مبروك يا أسمك,سوف تحصل على رخصه القيادة ");
+        }else{
+        System.out.println("  للاسف يا أسمك,مازلت صغير لللحصول على الرخصه");
+            
+        }
